@@ -1,4 +1,4 @@
-# Pick And Ship
+Pick And Ship Project Details.
 
 This project serves solely the task to provide a template for services to be integrated to the pickship platform.
 
@@ -12,7 +12,6 @@ The project consists of three modules:
 * JDK 11 (Quelle: https://adoptopenjdk.net/)
 * Docker
 
-
 the used procedure for Jenkins may be found in the corresponding `Jenkinsfile-**`
 
 For formatting purposes, the standard code style of IntelliJ is used.
@@ -23,4 +22,4 @@ Supported Java Versions:
 
 current compile target version: 11
 
-For further information regarding the setup and status of the project, look into the parent project which is used to 
+For further information regarding the setup and status of the project, look into the parent project which is used to.
