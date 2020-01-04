@@ -1,4 +1,4 @@
-# Pick And Ship
+# Pick And Ship Project Details
 
 This project serves solely the task to provide a template for services to be integrated to the pickship platform.
 
