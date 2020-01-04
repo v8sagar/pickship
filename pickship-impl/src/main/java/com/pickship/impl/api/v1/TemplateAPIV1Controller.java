@@ -1,9 +1,9 @@
 
 package com.pickship.impl.api.v1;
 
-import de.docufy.m40.excelimporter.api.v1.TemplateAPIException;
-import de.docufy.m40.excelimporter.api.v1.TemplateAPIV1;
-import de.docufy.m40.excelimporter.api.v1.TemplateInformation;
+import com.pickship.api.v1.TemplateAPIException;
+import com.pickship.api.v1.TemplateAPIV1;
+import com.pickship.api.v1.TemplateInformation;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RestController;
